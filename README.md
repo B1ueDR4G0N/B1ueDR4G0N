@@ -1,4 +1,9 @@
 ## Hi, I'm B1ueDR4G0N 👋
+
+京都大学情報学研究科大学院生
+
+技術スタック
+
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,java,python,rust,wasm)](https://skillicons.dev)
 
 <!--
