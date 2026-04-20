@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,java,python,rust,flask,docker)](https://skillicons.dev)
 
 <!--
 **B1ueDR4G0N/B1ueDR4G0N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
