@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm B1ueDR4G0N 👋
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,java,python,rust,wasm)](https://skillicons.dev)
 
 <!--
