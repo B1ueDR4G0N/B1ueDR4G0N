@@ -6,6 +6,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,java,python,rust,wasm)](https://skillicons.dev)
 
+興味分野
+
+ゲームプログラミング、VR/XR、メタバース、サーバーエンジニアリング
+
+資格
+
+応用情報技術者(2024秋取得)
+
 <!--
 **B1ueDR4G0N/B1ueDR4G0N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
