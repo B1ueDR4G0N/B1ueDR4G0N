@@ -4,7 +4,7 @@
 
 技術スタック
 
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,java,python,rust,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,java,python,rust,wasm,ue)](https://skillicons.dev)
 
 興味分野
 
