@@ -16,7 +16,7 @@
 
 ポートフォリオ
 
-<https://b1uedragon.com>
+<https://b1uedragon.jp>
 <!--
 **B1ueDR4G0N/B1ueDR4G0N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
